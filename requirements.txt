@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+openai
+requests
+beautifulsoup4
+python-dotenv
+serpapi
+readability-lxml
+tqdm
